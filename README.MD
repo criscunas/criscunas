@@ -1,5 +1,13 @@
-<!--START_SECTION:waka-->
 
+<h2 align="center">👋 Hello! I'm Cris.</h2>
+<p align="center">
+  <a href="https://www.criscunas.dev">Website</a> •
+  <a href="https://www.linkedin.com/in/cristophercunas/">LinkedIn</a>
+</p>
+
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
 ```text
 From: 11 July 2022 - To: 18 July 2022
 
