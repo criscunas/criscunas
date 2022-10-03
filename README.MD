@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.criscunas.dev">Website</a> •
   <a href="https://www.linkedin.com/in/cristophercunas/">LinkedIn</a> •
-  <a href="https://inlink-topaz.vercel.app/user/cristophercunas">Check me out on inlink.</a>
+  <a href="https://inlink-topaz.vercel.app/user/cristophercunas">Check me out on inlink</a>
 </p>
 
 
