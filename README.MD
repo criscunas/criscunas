@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.criscunas.dev">Website</a> •
   <a href="https://www.linkedin.com/in/cristophercunas/">LinkedIn</a> •
-  <a href="https://www.inlinkd.app/user/cristopher%20cunas">inlinkd</a>
+  <a href="https://www.inlinkd.app/user/cristophercunas">inlinkd</a>
 </p>
 
 
