@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://www.criscunas.dev">Website</a> •
   <a href="https://www.linkedin.com/in/cristophercunas/">LinkedIn</a> •
-  <a href="https://www.inlinkd.app/link/cristophercunas">inlinkd</a>
+  <a href="https://www.inlinkd.app">inlinkd</a>
+  
 </p>
 
 
@@ -23,3 +24,9 @@ Other        1 hr 14 mins    ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<div> 
+  <h3>Check out my inlinkd profile
+  <a href="https://www.inlinkd.app/link/cristophercunas">here 👨‍💻</a>
+  </h3>
+</div>
