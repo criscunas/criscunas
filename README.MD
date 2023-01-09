@@ -2,9 +2,7 @@
 <h2 align="center">👋 Hello! I'm Cris.</h2>
 <p align="center">
   <a href="https://www.criscunas.dev">Website</a> •
-  <a href="https://www.linkedin.com/in/cristophercunas/">LinkedIn</a> •
-  <a href="https://www.inlinkd.app">inlinkd</a>
-  
+  <a href="https://www.linkedin.com/in/cristophercunas/">LinkedIn</a> 
 </p>
 
 
@@ -25,9 +23,3 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<div> 
-  <h3>Check out my inlinkd profile
-  <a href="https://www.inlinkd.app/link/cristophercunas">here 👨‍💻</a>
-  </h3>
-</div>
