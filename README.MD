@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2023 - To: 14 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
-Total Time: 46 hrs 19 mins
+Total Time: 44 hrs 44 mins
 
-JavaScript                 26 hrs 26 mins  ██████████████▒░░░░░░░░░░   57.02 %
-Vue.js                     17 hrs 46 mins  █████████▓░░░░░░░░░░░░░░░   38.34 %
-JSON                       55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Nginx configuration file   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-HTML                       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Git Config                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Vue.js                     22 hrs 8 mins   ████████████▒░░░░░░░░░░░░   49.44 %
+JavaScript                 19 hrs 36 mins  ███████████░░░░░░░░░░░░░░   43.78 %
+HTML                       1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JSON                       55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Nginx configuration file   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Git Config                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
