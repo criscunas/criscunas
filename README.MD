@@ -10,13 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2023 - To: 03 May 2023
+From: 27 April 2023 - To: 04 May 2023
 
-Total Time: 38 hrs 36 mins
+Total Time: 40 hrs 18 mins
 
-Vue.js       33 hrs 20 mins  █████████████████████▓░░░   86.24 %
-JavaScript   5 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Vue.js       35 hrs 34 mins  ██████████████████████░░░   88.12 %
+JavaScript   4 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
