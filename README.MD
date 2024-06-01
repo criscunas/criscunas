@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Total Time: 9 hrs 3 mins
+Total Time: 10 hrs 11 mins
 
-Vue.js       5 hrs 25 mins   ███████████████░░░░░░░░░░   59.78 %
-JavaScript   3 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   40.19 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   5 hrs 46 mins   ██████████████░░░░░░░░░░░   56.65 %
+Vue.js       4 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   43.32 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
