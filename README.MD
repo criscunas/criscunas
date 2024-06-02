@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-Total Time: 10 hrs 11 mins
+Total Time: 11 hrs 26 mins
 
-JavaScript   5 hrs 46 mins   ██████████████░░░░░░░░░░░   56.65 %
-Vue.js       4 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   43.32 %
+JavaScript   6 hrs 58 mins   ███████████████▒░░░░░░░░░   60.86 %
+Vue.js       4 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   39.11 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
