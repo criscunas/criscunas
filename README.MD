@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Total Time: 4 hrs 42 mins
+Total Time: 3 hrs 53 mins
 
-Vue.js       4 hrs 40 mins   ████████████████████████▒   97.86 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Vue.js       3 hrs 40 mins   ██████████████████████▓░░   91.17 %
+Bash         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
