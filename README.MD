@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2025 - To: 21 May 2025
+From: 15 May 2025 - To: 22 May 2025
 
-Total Time: 16 hrs 8 mins
+Total Time: 14 hrs 2 mins
 
-JavaScript   14 hrs 22 mins  █████████████████████▓░░░   87.13 %
-Bash         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-YAML         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+JavaScript   11 hrs 48 mins  ████████████████████▓░░░░   82.08 %
+Bash         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+YAML         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
