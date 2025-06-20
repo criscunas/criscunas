@@ -10,15 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2025 - To: 18 June 2025
+From: 12 June 2025 - To: 19 June 2025
 
-Total Time: 8 hrs 31 mins
+Total Time: 11 hrs 35 mins
 
-Vue.js       6 hrs 2 mins    █████████████████▓░░░░░░░   70.76 %
-JavaScript   2 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Vue.js       9 hrs 14 mins   ███████████████████▓░░░░░   78.22 %
+JavaScript   2 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
