@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 26 hrs 14 mins
+Total Time: 22 hrs 19 mins
 
-JavaScript   19 hrs 44 mins  ██████████████████▓░░░░░░   75.24 %
-Vue.js       6 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JavaScript   16 hrs          ██████████████████░░░░░░░   71.75 %
+Vue.js       6 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.86 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
